@@ -13,3 +13,14 @@
 .pnp.*
 
 .DS_Store
+
+# next.js
+/.next/
+/out/
+/build
+.vercel
+/coverage
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
